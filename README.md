@@ -1,5 +1,5 @@
 # kampusmvc1
- Nama  : Fahrizal Nurkholis
- NPM   : 2019804103 
- Kelas : SI 5B Shift Malam
-Link video youtube https://youtu.be/_G8H8dXeuhg
+ <br>Nama  : Fahrizal Nurkholis</br>
+ <br>NPM   : 2019804103</br>
+ <br>Kelas : SI 5B Shift Malam</br>
+<br>Link video youtube https://youtu.be/_G8H8dXeuhg</br>
